@@ -1,0 +1,2 @@
+<?php
+$sSectionName = "e-Learning";

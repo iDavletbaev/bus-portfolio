@@ -1,0 +1,38 @@
+<?php
+$aMenuLinks = array(
+    array(
+        "Отчет",
+        "/e-store/affiliates/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Инструкции",
+        "/e-store/affiliates/instructions.php",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Регистрация",
+        "/e-store/affiliates/register.php",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Планы",
+        "/e-store/affiliates/plans.php",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Отчет по программе",
+        "/e-store/affiliates/report.php",
+        array(),
+        array(),
+        ""
+    )
+);

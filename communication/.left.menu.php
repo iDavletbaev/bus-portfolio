@@ -1,0 +1,45 @@
+<?php
+$aMenuLinks = array(
+    array(
+        "Опросы",
+        "/communication/voting/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Форум",
+        "/communication/forum/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Веб-формы",
+        "/communication/web-forms/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Блоги",
+        "/communication/blog/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Техподдержка",
+        "/communication/support/?show_wizard=Y",
+        array("/communication/support/"),
+        array(),
+        ""
+    ),
+    array(
+        "Обучение",
+        "/communication/learning/",
+        array(),
+        array(),
+        ""
+    )
+);

@@ -1,0 +1,52 @@
+<?php
+$aMenuLinks = array(
+    array(
+        "Главная",
+        "/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Профиль",
+        "/personal/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Контент",
+        "/content/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Магазин",
+        "/e-store/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Общение",
+        "/communication/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Социальная сеть",
+        "/club/",
+        array(),
+        array(),
+        ""
+    ),
+    array(
+        "Типовые примеры",
+        "/examples/",
+        array(),
+        array(),
+        ""
+    )
+);

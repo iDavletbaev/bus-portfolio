@@ -1,0 +1,2 @@
+<?php
+$sSectionName="Импорт RSS";

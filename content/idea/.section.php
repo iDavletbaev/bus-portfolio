@@ -1,0 +1,4 @@
+<?php
+$sSectionName = "";
+$arDirProperties = array(
+);

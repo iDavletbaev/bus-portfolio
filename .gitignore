@@ -1,0 +1,5 @@
+/bitrix/
+/upload/
+.idea
+.php-cs-fixer*
+.DS_Store
