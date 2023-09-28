@@ -3,3 +3,5 @@
 .php-cs-fixer*
 /.DS_Store
 /.idea/
+/local/vendor/
+/local/composer.lock
